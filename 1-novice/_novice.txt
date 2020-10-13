@@ -1,0 +1,6 @@
+novice
+- Rigid adherence to rules
+- No exercise of discretionary judgement
+
+exercises
+1. hello-world

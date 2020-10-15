@@ -13,3 +13,5 @@ Express framework
 Connect framework
 Ghost (blogging engine - ghost.org)
 "Functional Programming in JavaScript"
+Design patterns in JavaScript
+object oriented programming in javascript

@@ -4,6 +4,11 @@ const channel = new events.EventEmitter();
 channel.clients = {};
 channel.subscriptions = {};
 channel.on('join', function(id, client){
+    const welcome = `
+        Welcome!
+          Guests online: ${this.listeners('broadcast').length}
+        `;
+    client.write(`${welcome}\n`);
     this.clients[id] = client;
     this.subscriptions[id] = (senderId, message) => {
         if (id != senderId){
@@ -19,7 +24,8 @@ channel.on('leave', function(id){
 channel.on('shutdown', () => {
     channel.emit('broadcast', '', 'The server has shut down.\n');
     channel.removeAllListeners('broadcast');
-  });
+});
+channel.setMaxListeners(50);
 const server = net.createServer(client => {
     const id = `${client.remoteAddress}:${client.remotePort}`;
     channel.emit('join', id, client);

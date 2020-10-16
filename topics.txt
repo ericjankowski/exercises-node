@@ -15,3 +15,4 @@ Ghost (blogging engine - ghost.org)
 "Functional Programming in JavaScript"
 Design patterns in JavaScript
 object oriented programming in javascript
+more closure examples -  https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Closures.

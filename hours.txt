@@ -1,0 +1,4 @@
+Total: 1 hours
+
+Date        Start   Finish  Duration    Notes
+2020-10-19  09:15   10:15   1:00        Finishing chapter 2 of Node in Action        

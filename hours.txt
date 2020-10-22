@@ -1,5 +1,6 @@
-Total: 1 hours
+Total: 2.75 hours
 
 Date        Start   Finish  Duration    Notes
+2020-10-21  10:15   11:15   1:00
 2020-10-21  09:00   09:45   0:45        Getting started on chapter 3 of Node.js in Action
 2020-10-19  09:15   10:15   1:00        Finishing chapter 2 of Node in Action        

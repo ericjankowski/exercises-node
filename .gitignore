@@ -2,6 +2,7 @@
 tmp/
 *.tar
 *.sqlite
+dump.rdb
 
 # Logs
 logs

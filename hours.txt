@@ -1,7 +1,8 @@
-Total: 4.50 hours
+Total: 6.75 hours
 
 Date        Start   Finish  Duration    Notes
-2020-10-26  12:00   
+2020-10-27  10:30   12:00   1:30        Chapter 9 - testing
+2020-10-26  12:00   2:15    2:15
 2020-10-23  10:45   11:30   0:45        
 2020-10-22  13:30   14:30   1:00        Starting chapter 4
 2020-10-21  10:15   11:15   1:00

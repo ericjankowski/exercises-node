@@ -1,0 +1,2 @@
+What are the minimum dimensions of a word search containing all words in a list?
+Conway's game of life

@@ -1,5 +1,9 @@
 Related Topics
 
+"Functional Programming in JavaScript"
+Design patterns in JavaScript
+object oriented programming in javascript
+
 npm
 Gulp
 webpack
@@ -12,8 +16,5 @@ JavaScript
 Express framework
 Connect framework
 Ghost (blogging engine - ghost.org)
-"Functional Programming in JavaScript"
-Design patterns in JavaScript
-object oriented programming in javascript
 more closure examples -  https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Closures.
 more async practice - “Virtual Panel: How to Survive Asynchronous Programming in JavaScript” by Werner Schuster and Dio Synodinos on InfoQ: http://mng.bz/wKnV.

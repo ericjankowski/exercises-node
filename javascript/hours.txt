@@ -1,6 +1,7 @@
-Total: 6.75 hours
+Total: 8.25 hours
 
 Date        Start   Finish  Duration    Notes
+2020-10-29  14:30   15:15   0:45        Mocha example started
 2020-10-27  10:30   12:00   1:30        Chapter 9 - testing
 2020-10-26  12:00   2:15    2:15
 2020-10-23  10:45   11:30   0:45        

@@ -16,4 +16,13 @@ exports.first = (obj) => {
 
 exports.clear = () => {
     db.length = 0;
-  };
+};
+
+exports.saveAsync = (doc, cb) => {
+    db.push(doc);
+    if (cb) {
+        setTimeout(() => {
+            cb();
+        }, 1000);
+    }
+};

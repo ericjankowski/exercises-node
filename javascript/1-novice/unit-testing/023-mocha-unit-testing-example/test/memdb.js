@@ -6,12 +6,23 @@ describe('memdb', () => {
         memdb.clear();
     });
     
-    describe('sunchronous .saveSync(doc', () => {
+    describe('sunchronous .saveSync(doc)', () => {
         it('should save the document', () => {
             const pet = { name: 'Tobi' };
             memdb.saveSync(pet);
             const ret = memdb.first({ name: 'Tobi' } );
             assert(ret == pet);
+        });
+    });
+
+    describe('asynchronous .saveAsync(doc, cb)', () => {
+        it('should save the document', (done) => {
+            const pet = { name: 'Tobi' };
+            memdb.saveAsync(pet, () => {
+                const ret = memdb.first({ name: 'Tobi' });
+                assert(ret == pet);
+                done();
+            });
         });
     });
 

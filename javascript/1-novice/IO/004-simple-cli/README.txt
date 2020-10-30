@@ -1,0 +1,1 @@
+execute using `node cli.js World`

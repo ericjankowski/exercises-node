@@ -1,7 +1,8 @@
-Total: 8.25 hours
+Total: 10.75 hours
 
 Date        Start   Finish  Duration    Notes
-2020-10-30  10:15   
+2020-11-02  13:00   14:15   1:15        Starting JavaScript Data Structures and Algorithms
+2020-10-30  10:15   11:00   0:30
 2020-10-29  14:30   15:15   0:45        Mocha example started
 2020-10-27  10:30   12:00   1:30        Chapter 9 - testing
 2020-10-26  12:00   2:15    2:15

@@ -1,8 +1,12 @@
-Total: 10.75 hours
+Total: 12.75 hours
 
 Date        Start   Finish  Duration    Notes
-2020-11-94  09:30   10:30   1:00        Some math
+2020-11-04  12:30   13:30   1:00        Some string stuff
+2020-11-04  09:30   10:30   1:00        Some math
 2020-11-02  13:00   14:15   1:15        Starting JavaScript Data Structures and Algorithms
+November Total: 2.25 hours
+
+
 2020-10-30  10:15   11:00   0:30
 2020-10-29  14:30   15:15   0:45        Mocha example started
 2020-10-27  10:30   12:00   1:30        Chapter 9 - testing
@@ -11,4 +15,5 @@ Date        Start   Finish  Duration    Notes
 2020-10-22  13:30   14:30   1:00        Starting chapter 4
 2020-10-21  10:15   11:15   1:00
 2020-10-21  09:00   09:45   0:45        Getting started on chapter 3 of Node.js in Action
-2020-10-19  09:15   10:15   1:00        Finishing chapter 2 of Node in Action        
+2020-10-19  09:15   10:15   1:00        Finishing chapter 2 of Node in Action
+October Total: 9.50 hours        

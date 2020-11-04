@@ -1,6 +1,6 @@
 const vows = require('vows');
 const assert = require('assert');
-const Todo = require('./../todo');
+const Todo = require('../todo');
 vows.describe('Todo').addBatch({
     'when adding an item': {
         topic: () => {
